@@ -53,7 +53,6 @@ This project implements a real-time IoT system that reads **temperature and humi
 | Error Handling        | Resend corrupted or lost data.                                 |
 | Live Monitoring       | Display readings instantly on PC.                              |
 | Data Logging          | Optionally log readings to CSV/database.                       |
-| Configurable Interval | Example: every 5 seconds, adjustable remotely via CMD message. |
 
 ---
 
