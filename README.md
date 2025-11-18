@@ -209,7 +209,7 @@ Sensors → Arduino (pack messages) → Server → Display App (show & log)
 
 #### **B. Server → Sensor**
 
-| Type | Format Example | Purpose |       |                 |                                            |
+| Type | Format Example | Purpose |   ID  |   Info       |                                            |
 | ---- | -------------- | ------- | ----- | --------------- | ------------------------------------------ |
 | ACK  | `001           | ACK     | TEMP1 | `               | Confirms successful message reception.     |
 | NACK | `002           | NACK    | HUM1  | Checksum Error` | Requests resend due to corrupted message.  |
