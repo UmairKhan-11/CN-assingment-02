@@ -189,7 +189,7 @@ Sensors → Arduino (pack messages) → Server → Display App (show & log)
 
 ### 6.2 Message Types
 
-#### **A. Sensor → Server**
+#### **A. Sensor → Arduino → Server **
 
 | Type | Format Example | Purpose |  ID   | Value | Unit |                               |
 | ---- | -------------- | ------- | ----- | ---- | -- | -------------------------------- |
@@ -206,7 +206,7 @@ Sensors → Arduino (pack messages) → Server → Display App (show & log)
 
 ---
 
-#### **B. Server → Sensor**
+#### **B. Server → Arduino**
 
 | Type | Format Example | Purpose |   ID  |   Info       |                                            |
 | ---- | -------------- | ------- | ----- | --------------- | ------------------------------------------ |
