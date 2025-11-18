@@ -192,7 +192,7 @@ Sensors → Arduino (pack messages) → Server → Display App (show & log)
 
 #### **A. Sensor → Server**
 
-| Type | Format Example | Purpose |       |      |    |                                  |
+| Type | Format Example | Purpose |  ID   | Value | Unit |                               |
 | ---- | -------------- | ------- | ----- | ---- | -- | -------------------------------- |
 | DATA | `001           | DATA    | TEMP1 | 27.5 | C` | Send sensor reading to server.   |
 | DATA | `002           | DATA    | HUM1  | 55.0 | %` | Send humidity reading to server. |
