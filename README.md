@@ -296,7 +296,7 @@ Serial.println(message);
 * Use unique `SENSOR_ID` for each sensor.
 * SPCP is plain-text for easy debugging.
 * Data 8-bit ASCII (American Standard Code for Information Interchange) assigns a numeric code to each character (letters, digits, symbols).
-* Future upgrades: Wi-Fi (ESP8266/ESP32), MQTT protocol, web dashboards.
+
 
 ---
 
