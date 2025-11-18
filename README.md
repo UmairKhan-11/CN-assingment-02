@@ -18,7 +18,7 @@
 | Sohaib Khan | B23F0001A1045 |
 | Malik Adnan | B23F0922AI038 |
 
-
+---
 
 # SPCP Temperature & Humidity Monitoring System
 
