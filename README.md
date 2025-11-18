@@ -3,7 +3,7 @@
 
 **Course:** Computer Networks (Comp-352)  
 **Semester:** 5th (Fall 2025)  
-**Assignment:** 1
+**Assignment:** 2
 
 ---
 
